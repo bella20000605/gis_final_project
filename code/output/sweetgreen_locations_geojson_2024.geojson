@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "sweetgreen_locations_geojson_2024",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "name": "sweetgreen", "address": "1044 Wisconsin Ave NW, Washington, DC 20007, United States", "latitude": 38.9037977, "longitude": -77.0629302 }, "geometry": { "type": "Point", "coordinates": [ -77.0629302, 38.9037977 ] } },
@@ -9,8 +10,8 @@
 { "type": "Feature", "properties": { "name": "sweetgreen", "address": "1325 W St NW, Washington, DC 20009, United States", "latitude": 38.9193652, "longitude": -77.0312564 }, "geometry": { "type": "Point", "coordinates": [ -77.0312564, 38.9193652 ] } },
 { "type": "Feature", "properties": { "name": "sweetgreen", "address": "1461 P St NW, Washington, DC 20005, United States", "latitude": 38.9098374, "longitude": -77.0339645 }, "geometry": { "type": "Point", "coordinates": [ -77.0339645, 38.9098374 ] } },
 { "type": "Feature", "properties": { "name": "sweetgreen", "address": "221 Pennsylvania Ave. SE, Washington, DC 20003, United States", "latitude": 38.8870647, "longitude": -77.0026924 }, "geometry": { "type": "Point", "coordinates": [ -77.0026924, 38.8870647 ] } },
-{ "type": "Feature", "properties": { "name": "sweetgreen", "address": "2221 I St NW, Washington, DC 20037, United States", "latitude": 38.9009126, "longitude": -77.049619 }, "geometry": { "type": "Point", "coordinates": [ -77.049619, 38.9009126 ] } },
-{ "type": "Feature", "properties": { "name": "sweetgreen", "address": "624 E St NW, Washington, DC 20004, United States", "latitude": 38.8959378, "longitude": -77.0213638 }, "geometry": { "type": "Point", "coordinates": [ -77.0213638, 38.895937800000013 ] } },
+{ "type": "Feature", "properties": { "name": "sweetgreen", "address": "2221 I St NW, Washington, DC 20037, United States", "latitude": 38.9009086, "longitude": -77.0496211 }, "geometry": { "type": "Point", "coordinates": [ -77.0496211, 38.9009086 ] } },
+{ "type": "Feature", "properties": { "name": "sweetgreen", "address": "624 E St NW, Washington, DC 20004, United States", "latitude": 38.8960213, "longitude": -77.0213797 }, "geometry": { "type": "Point", "coordinates": [ -77.0213797, 38.8960213 ] } },
 { "type": "Feature", "properties": { "name": "sweetgreen", "address": "601 Massachusetts Ave NW Suite 110, Washington, DC 20001, United States", "latitude": 38.9017462, "longitude": -77.0200861 }, "geometry": { "type": "Point", "coordinates": [ -77.0200861, 38.9017462 ] } },
 { "type": "Feature", "properties": { "name": "sweetgreen", "address": "1800 N Lynn St, Arlington, VA 22209, United States", "latitude": 38.8963197, "longitude": -77.0710847 }, "geometry": { "type": "Point", "coordinates": [ -77.0710847, 38.8963197 ] } },
 { "type": "Feature", "properties": { "name": "sweetgreen", "address": "1212 4th St SE, Washington, DC 20003, United States", "latitude": 38.8751397, "longitude": -77.0003666 }, "geometry": { "type": "Point", "coordinates": [ -77.0003666, 38.8751397 ] } },
