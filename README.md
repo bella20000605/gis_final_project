@@ -1,3 +1,12 @@
+
+https://bella20000605.github.io/gis_final_project/
+
+Teammates:
+Bella Shi
+Jacky Zhang
+Lianghui Yi
+
+
 # PPOL 6805 / DSAN 6750 Final Project: Quarto Manuscript Template
 
 1. Click the **"Use this template"** button in the upper-right, and select **"Create a new repository"**
